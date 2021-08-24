@@ -6,8 +6,8 @@
 - 📫 How to reach me **nosduh.blade@gmail.com**
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=hudsonss&show_icons=true&theme=radical" width = 450 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=hudsonss&theme=radical&hide_border=bear" width = 450 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=hudsonss&show_icons=true&theme=radical" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=hudsonss&theme=radical&hide_border=bear" width = 400 >
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
