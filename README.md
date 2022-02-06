@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hudson Santos</h1>
 <h3 align="center">A passionate developer from Brasil.</h3>
 
+- 🌱 I’m currently learning **HTML/CSS/JS**
 - 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **nosduh.blade@gmail.com**
